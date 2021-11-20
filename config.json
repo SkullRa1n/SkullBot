@@ -1,0 +1,11 @@
+{
+	"token": "Token",
+	"prefixo": "sr.",
+	"color": {
+		"positivo": "GREEN",
+		"negativo": "RED",
+		"neutro": "BLUE",
+		"aviso": "YELLOW"
+	},
+	"AccountID": "IdDaSuaConta"
+}

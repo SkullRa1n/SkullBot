@@ -46,3 +46,5 @@ module.exports = {
 
 ## Licensa
 Skull Rain por sua segurança e seu apoio!"# SkullBot" 
+"# SkullBot" 
+"# SkullBot" 
